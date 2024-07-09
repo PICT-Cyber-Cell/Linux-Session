@@ -76,7 +76,7 @@
       $ mkdir new_directory
       ```
 
-## Files and Directories
+## Files and Directories Commands
 
 - `touch [file_name]`: Create an empty file with a specific name.
   - Example:
