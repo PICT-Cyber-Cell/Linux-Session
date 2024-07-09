@@ -2,7 +2,7 @@
 ## Navigate Directories
 
 ### Linux File System Tree:
-<p align="center"><img src="./images/Linux File System.png" height="450" width="auto"></p>
+<p align="center"><img src="./images/Linux File System (1).png" height="450" width="auto"></p>
 
 - **bin**: binary (commands and utilities that all users can run)
 - **sbin**: this directory contains programs that performs vital system tasks (network management, disk partitioning). Only the superuser has access to these programs.
